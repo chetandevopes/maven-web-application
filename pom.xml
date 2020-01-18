@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.12.226:8081/repository/astrazenica-releases/</url>
+	      <url>http://13.235.75.44:8081/repository/astrazenica-dev-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.12.226:8081/repository/astrazenica-snapshot/</url>
+	      <url>http://13.235.75.44:8081/repository/astrazenica-dev-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
